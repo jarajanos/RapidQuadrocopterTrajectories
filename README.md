@@ -1,6 +1,8 @@
 Quadrocopter trajectory generator 
 ================================
 
+**This repository is a fork of the project <https://github.com/markwmuller/RapidQuadrocopterTrajectories> with added makefile for creating static library.**
+
 Mark W. Mueller (mwm@berkeley.edu)
 
 This contains source code implementing a method for rapidly generating trajectories for quadrocopters. The two folders give implementations for both C++ code, and Python. These are equivalent, but independent of one another.
